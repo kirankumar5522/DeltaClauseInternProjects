@@ -1,7 +1,10 @@
 # DeltaClauseInternProjects
 Simple Calculator
+
 Description
+
 This is a simple calculator program implemented in Python. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a graphical user interface (GUI) built using the Tkinter library.
+
 
 Features
 Addition
